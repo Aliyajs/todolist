@@ -1,0 +1,48 @@
+.todo-container{
+    width: 500px;
+    margin: 50px auto;
+}
+.checkedText{
+    text-decoration: line-through;
+}
+
+ /* new todo-list */
+
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    text-align: left;
+    margin-top: 20px;
+}
+li {
+    list-style: none;
+    padding: 10px 20px;
+    color: black;
+    font-weight: 600;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+li > button {
+    font-weight: normal;
+    background: none;
+    border: none;
+    color: black;
+    font-weight: 800px;
+}
+input {
+    border-radius: 5px;
+    min-width: 65%;
+    padding: 5px;
+    border: none;
+}
+.done {
+    text-decoration: line-through;
+}
+.delete {
+    display: none;
+} */
